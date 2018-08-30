@@ -1,0 +1,18 @@
+{
+  "name": "react-cli",
+  "version": "1.0.0",
+  "description": "my react cli,webpack@3.8.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jt",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "webpack": "3.8.1"
+  }
+}
